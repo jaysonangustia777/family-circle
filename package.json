@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "A family check-in web app: family groups with invite codes, profile photos (with a drag-and-zoom photo adjuster), call / video-call buttons, an interactive live family map, family chat (group and direct messages, photos, files, voice notes, replies, reactions, read ticks), day / night mode, colour themes and a kids mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysonangustia777/family-circle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysonangustia777/family-circle/issues"
+  },
+  "homepage": "https://github.com/jaysonangustia777/family-circle#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
